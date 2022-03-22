@@ -127,9 +127,3 @@ jihokim@gimjihoui-MacBookPro test % cat test.txt
 asdasdasd
 ```
 
-- pwd (print working directory)  :  현재 위치의 경로 를 말해준다.
-
-```swift
-jihokim@gimjihoui-MacBookPro ~ % pwd
-/Users/jihokim
-```
